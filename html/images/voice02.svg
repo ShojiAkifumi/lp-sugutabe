@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120">
+<defs><clipPath id="c"><circle cx="60" cy="60" r="60"/></clipPath></defs>
+<g clip-path="url(#c)">
+<rect width="120" height="120" fill="#FDF1E4"/>
+<g transform="scale(1.2)">
+<circle cx="50" cy="23" r="9" fill="#3E2A20"/><path d="M31 48c-1 7 0 11 2 14h34c2-3 3-7 2-14z" fill="#3E2A20"/>
+<path d="M20 100c0-17 13-27 30-27s30 10 30 27z" fill="#E6CBA8"/><path d="M40 75q10 8 20 0" fill="none" stroke="#D4B48C" stroke-width="2"/>
+<rect x="44" y="60" width="12" height="15" rx="5" fill="#EFC3A0"/>
+<circle cx="50" cy="46" r="19" fill="#F6D3B3"/>
+<path d="M30.5 46c0-13 9-21 19.5-21s20 8 20 21c-5-6-11-9-17-10-6 4-13 8-22.5 10z" fill="#3E2A20"/><path d="M58 21q5-3 8 1" stroke="#9CC27A" stroke-width="2.4" fill="none" stroke-linecap="round"/>
+<path d="M41.5 47.5q2.5-3 5 0M53.5 47.5q2.5-3 5 0" stroke="#3A3A32" stroke-width="1.8" fill="none" stroke-linecap="round"/>
+<circle cx="39.5" cy="53.5" r="3" fill="#F2A7A0" opacity=".55"/><circle cx="60.5" cy="53.5" r="3" fill="#F2A7A0" opacity=".55"/>
+<path d="M46 55.5q4 4 8 0" stroke="#B85C44" stroke-width="1.8" fill="none" stroke-linecap="round"/>
+
+</g>
+</g>
+</svg>
